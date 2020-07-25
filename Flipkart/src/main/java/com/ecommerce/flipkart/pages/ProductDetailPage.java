@@ -86,8 +86,10 @@ public class ProductDetailPage extends BasePage
 		}
 		else
 		{
+			webActionUtil.elementClick(addToCartBtn);
+			Utilities.sleepInSeconds(3);
 			webActionUtil.elementClick(continueToShoppingBtn);
-			return this;
+			return new HomePage(driver, webActionUtil);
 		}
 	}
 	
