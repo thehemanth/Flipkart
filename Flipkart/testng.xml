@@ -11,7 +11,6 @@
       <class name="com.ecommerce.flipkart.testscripts.TC002"/>
       <class name="com.ecommerce.flipkart.testscripts.TC003"/>
       <class name="com.ecommerce.flipkart.testscripts.TC004"/>
-      <class name="com.ecommerce.flipkart.testscripts.TCB005"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
