@@ -8,8 +8,6 @@
   	<parameter name="eto" value="10"/>
     <classes>
       <class name="com.ecommerce.flipkart.testscripts.TC002"/>
-      <class name="com.ecommerce.flipkart.testscripts.TC003"/>
-      <class name="com.ecommerce.flipkart.testscripts.TC004"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
